@@ -1,6 +1,10 @@
 # photo_gallery_app
 
-A new Flutter project.
+Photo Gallery app using Pixaby API and GetX state managment.
+
+## Demo
+![aaaaass](https://user-images.githubusercontent.com/81378260/155662741-93ef6807-e7d1-4da8-bec3-3d3e4a32923c.png)
+
 
 ## Getting Started
 
